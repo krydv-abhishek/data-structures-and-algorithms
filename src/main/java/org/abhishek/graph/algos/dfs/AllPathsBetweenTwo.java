@@ -1,6 +1,6 @@
 package org.abhishek.graph.algos.dfs;
 
-import org.abhishek.dsa.graph.algos.Graph;
+import org.abhishek.graph.algos.Graph;
 
 import java.util.ArrayList;
 import java.util.List;
